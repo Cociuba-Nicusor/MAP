@@ -1,0 +1,14 @@
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\bin\Debug\netcoreapp3.1\Stiva.exe
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\bin\Debug\netcoreapp3.1\Stiva.deps.json
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\bin\Debug\netcoreapp3.1\Stiva.runtimeconfig.json
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\bin\Debug\netcoreapp3.1\Stiva.runtimeconfig.dev.json
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\bin\Debug\netcoreapp3.1\Stiva.dll
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\bin\Debug\netcoreapp3.1\Stiva.pdb
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\obj\Debug\netcoreapp3.1\Stiva.csproj.AssemblyReference.cache
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\obj\Debug\netcoreapp3.1\Stiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\obj\Debug\netcoreapp3.1\Stiva.AssemblyInfoInputs.cache
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\obj\Debug\netcoreapp3.1\Stiva.AssemblyInfo.cs
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\obj\Debug\netcoreapp3.1\Stiva.csproj.CoreCompileInputs.cache
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\obj\Debug\netcoreapp3.1\Stiva.dll
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\obj\Debug\netcoreapp3.1\Stiva.pdb
+C:\Users\PC\Source\Repos\Cociuba-Nicusor\MAP\Stiva\obj\Debug\netcoreapp3.1\Stiva.genruntimeconfig.cache

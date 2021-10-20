@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\bin\Debug\netcoreapp3.1\Coada.exe
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\bin\Debug\netcoreapp3.1\Coada.deps.json
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\bin\Debug\netcoreapp3.1\Coada.runtimeconfig.json
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\bin\Debug\netcoreapp3.1\Coada.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\bin\Debug\netcoreapp3.1\Coada.dll
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\bin\Debug\netcoreapp3.1\Coada.pdb
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\obj\Debug\netcoreapp3.1\Coada.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\obj\Debug\netcoreapp3.1\Coada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\obj\Debug\netcoreapp3.1\Coada.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\obj\Debug\netcoreapp3.1\Coada.AssemblyInfo.cs
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\obj\Debug\netcoreapp3.1\Coada.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\obj\Debug\netcoreapp3.1\Coada.dll
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\obj\Debug\netcoreapp3.1\Coada.pdb
+C:\Users\PC\source\repos\Cociuba-Nicusor\MAP\Coada\obj\Debug\netcoreapp3.1\Coada.genruntimeconfig.cache
